@@ -1,0 +1,3 @@
+/* rev-a7c14e-20260928 */
+USAGE.txt
+unpack zip, set key, call noul/choice/score
